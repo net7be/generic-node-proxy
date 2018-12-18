@@ -1,5 +1,5 @@
 {
-  "name": "anopio-limiter-proxy",
+  "name": "limiter-proxy",
   "version": "1.0.0",
   "description": "",
   "main": "limiter-proxy.js",
