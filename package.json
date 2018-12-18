@@ -1,0 +1,15 @@
+{
+  "name": "anopio-limiter-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "limiter-proxy.js",
+  "scripts": {
+    "start": "node limiter-proxy.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-proxy": "^1.17.0"
+  }
+}
